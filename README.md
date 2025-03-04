@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/nitintoc">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Nitin Augustine" /></a>
+    <img src="https://github.com/nitintoc/nitintoc/blob/0cf1dd7d6ff45ea94d181c3256b21712da33abb3/name.png" alt="Nitin Augustine" /></a>
 </p>
 
 <p align="center">
