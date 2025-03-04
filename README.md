@@ -48,7 +48,7 @@
       <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
       <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
       <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
-      <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/pytorch-red></a>
+      <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/pytorch-red"></a>
   </p>
 
   <h3>🗄️ Databases and Cloud Hosting</h3>
