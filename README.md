@@ -1,11 +1,10 @@
 <p align="center">
   <a href="https://github.com/nitintoc">
-    <img src="https://github.com/nitintoc/nitintoc/blob/0cf1dd7d6ff45ea94d181c3256b21712da33abb3/name.png" alt="Nitin Augustine" width="100" height="50"/ /></a>
+    <img src="https://github.com/nitintoc/nitintoc/blob/0cf1dd7d6ff45ea94d181c3256b21712da33abb3/name.png" alt="Nitin Augustine" width="150" height="40"/ /></a>
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Passionate+about+building+software+products" alt="Typing SVG" /></a>
-</p>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0B2734&background=F6F6F6A7&width=435&lines=I+like+building+software+products+%3A)" alt="Typing SVG" /></a></p>
 
 <!-- Social icons section -->
 <p align="center">
